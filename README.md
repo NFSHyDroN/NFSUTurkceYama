@@ -5,6 +5,8 @@ Need for Speed Underground Türkçe Yama Çalışması Bu Türkçe Yama çalış
 
 Yamayı indirmek için 'Releases' sayfasına gidiniz.
 
+Zip dosyasının şifresi 'Releases' sayfasındaki açıklamada belirtilmiştir.
+
 Yama kurulumu için 'Kurulum Talimatları' text dosyasını okuyunuz.
 
 # Örnek Ekran Görüntüleri
